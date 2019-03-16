@@ -8,7 +8,7 @@ An application for when your friend leaves their laptop open.
 2. Open the terminal wherever you have these files stored
 3. Run the command `python readMobyDick.py`
 4. Hide the terminal window
-4. Make the volume soft enough that when they return to their computer, they might not notice the sound at first.
+4. For optimal prank results: If you're running the script on a friend's laptop, set the volume pretty low. Best case is when it takes some time for them to notice.
 
 ## Notes
 
