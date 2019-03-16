@@ -16,3 +16,5 @@ This was originally designed to run on Mac computers, as it runs on the Mac-defa
 
 
 It should be portable to Linux, but as of creation, Windows CLI still lacks a text-to-speech command, so it won't work there.
+
+If you fear retalliation, I highly encourage you to make your next stop my facial-recognition computer locking repo [here](https://github.com/ebenz99/FacePatrol).
